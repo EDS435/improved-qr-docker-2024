@@ -15,7 +15,8 @@ the target website. You must make your program generate a QR code that takes som
 QRCode_20240328043450.png
 
 2.  Add an image of viewing the log of successfully creating the QR code below.
- PUT YOUR LOG IMAGE HERE
+    C:\improved-qr-docker-2024\image\log.png
+
 ## Lesson Video
 
 1.  [Scaling and Backend Software Engineering](https://youtu.be/v3LxCmYQVS4)
